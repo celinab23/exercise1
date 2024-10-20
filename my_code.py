@@ -8,3 +8,4 @@ def name_len(name):
         print('This is not a short name.')
 
 name_len(name)
+
