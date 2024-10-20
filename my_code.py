@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 name = "Pilar"
 last_name = "Bolanos"
 
